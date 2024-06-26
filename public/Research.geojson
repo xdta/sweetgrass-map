@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Research",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Charles Pinckney National Historic Site" }, "geometry": { "type": "Point", "coordinates": [ -79.8248758, 32.8457739 ] } },
+{ "type": "Feature", "properties": { "Name": "Tidewater Environmental Services" }, "geometry": { "type": "Point", "coordinates": [ -79.9451234, 32.8082986 ] } }
+]
+}

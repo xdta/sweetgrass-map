@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Event Sites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Gibbes Museum of Art" }, "geometry": { "type": "Point", "coordinates": [ -79.931906, 32.7785342 ] } },
+{ "type": "Feature", "properties": { "Name": "Preservation Society of Charleston" }, "geometry": { "type": "Point", "coordinates": [ -79.9330947, 32.7778588 ] } },
+{ "type": "Feature", "properties": { "Name": "Avery Research Center - College of Charleston" }, "geometry": { "type": "Point", "coordinates": [ -79.944584, 32.780431 ] } },
+{ "type": "Feature", "properties": { "Name": "Sweetgrass Pavilion" }, "geometry": { "type": "Point", "coordinates": [ -79.9022251, 32.8014779 ] } },
+{ "type": "Feature", "properties": { "Name": "McKissick Museum" }, "geometry": { "type": "Point", "coordinates": [ -81.0269473, 33.9987477 ] } },
+{ "type": "Feature", "properties": { "Name": "Smithsonian Institution" }, "geometry": { "type": "Point", "coordinates": [ -77.0213921, 38.8860146 ] } }
+]
+}
