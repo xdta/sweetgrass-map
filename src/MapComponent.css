@@ -1,0 +1,14 @@
+.leaflet-container {
+    z-index: 1;
+  }
+  
+  .custom-marker-icon div {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  .custom-label-icon {
+    text-align: center;
+  }
+  
