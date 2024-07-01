@@ -14,12 +14,12 @@ L.Icon.Default.mergeOptions({
 });
 
 const layerFiles = [
-  { id: "Research", name: "Research", file: "/Research.geojson", color: "blue" },
-  { id: "Commerce", name: "Commerce", file: "/Commerce.geojson", color: "red" },
-  { id: "EventSites", name: "Event Sites", file: "/Event_Sites.geojson", color: "green" },
-  { id: "HarvestingSites", name: "Harvesting Sites", file: "/Harvesting_Sites.geojson", color: "purple" },
-  { id: "HistoricalSites", name: "Historical Sites", file: "/Historical_Sites.geojson", color: "orange" },
-  { id: "Organizations", name: "Organizations", file: "/Organizations.geojson", color: "yellow" },
+  { id: "Research", name: "Research", file: "/Research.geojson", color: "#0FA3B1" },
+  { id: "Commerce", name: "Commerce", file: "/Commerce.geojson", color: "#B5E2FA" },
+  { id: "EventSites", name: "Event Sites", file: "/Event_Sites.geojson", color: "#EDDEA4" },
+  { id: "HarvestingSites", name: "Harvesting Sites", file: "/Harvesting_Sites.geojson", color: "#F7A072" },
+  { id: "HistoricalSites", name: "Historical Sites", file: "/Historical_Sites.geojson", color: "#1A535C" },
+  { id: "Organizations", name: "Organizations", file: "/Organizations.geojson", color: "#A30015" },
 ];
 
 const countyFile = "/Charleston_County_Boundary.geojson"; // Add your county boundary GeoJSON file here
